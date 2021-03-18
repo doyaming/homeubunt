@@ -36,7 +36,7 @@ val = [
   ('Vicky', 'Yellow Garden 2'),
   ('Ben', 'Park Lane 38'),
   ('William', 'Central st 954'),
-  ('Chuck', 'Main Road 989'),
+  ('Chuck', 'Main Road 977779'),
   ('Viola', 'Sideway 1633')
 ]
 mycursor.executemany(sql, val)
